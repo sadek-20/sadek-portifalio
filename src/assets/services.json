@@ -1,0 +1,13 @@
+[
+    {
+      "id": 1,
+      "name": "Web Development",
+      "desc": "Building robust, scalable, and high-performance websites and web applications. I specialize in creating responsive and user-friendly solutions tailored to meet client needs."
+    },
+    {
+      "id": 2,
+      "name": "Mobile App Development",
+      "desc": "Creating high-quality, user-friendly, and feature-rich mobile applications for iOS and Android platforms. I focus on delivering seamless and efficient experiences for end users."
+    }
+  ]
+  
